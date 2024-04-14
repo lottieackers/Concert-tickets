@@ -38,12 +38,6 @@ def run():
         print("No tours are available for the selected dates.")
 
 
-    # print('####### AVAILABILITY #######')
-    # print()
-    # display_availability(tours)
-    # print()
-    # place_booking = input('Would you like to book an appointment (y/n)?  ')
-
 
 if __name__ == '__main__':
     run()
