@@ -13,7 +13,7 @@ INSERT INTO tour_dates
 VALUES
 (1, 'Taylor Swift', '2024-04-22', 10), 
 (2, 'Tate Mcrae', '2024-04-22', 9), 
-(3, 'Taylor Swift', '2024-04-22', 11), 
+(3, 'Teddy Swims', '2024-04-22', 11), 
 (4, 'Beyonce', '2024-04-22', 8), 
 (5, 'Taylor Swift', '2024-04-26', 7), 
 (6, 'Dermot Kennedy', '2024-04-26', 9), 
